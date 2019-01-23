@@ -2,4 +2,5 @@ Name: วีร์ญา วีรวัฒน์ปรัชญา
 email: weeyaa.w@gmail.com
 tel: 095-489-4373
 
-pip install xmltodict
+ใช้ python 3.7.2
+(import xmltodict) pip install xmltodict
